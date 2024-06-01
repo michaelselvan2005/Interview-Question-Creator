@@ -14,9 +14,9 @@ conda activate interview
 
 Step3:
 
-  get add .
-  get commit -m "ReadMeUpdate"
-  git push
+  # get add .
+  # git commit -m "ReadMeUpdate"
+  # git push
 
-  
+
 
